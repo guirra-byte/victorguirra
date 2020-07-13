@@ -30,6 +30,6 @@
 
 ---
 
-<h5 align="center">
+<h3 align="center">
     💻 By: Victor Guirra
-</h5>
+</h3>
