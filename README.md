@@ -27,3 +27,9 @@
 - React Native
 - PHP
 - MySQL
+
+---
+
+<h5 align="center">
+    💻 By: Victor Guirra
+</h5>
