@@ -9,3 +9,29 @@
         <img src="https://ik.imagekit.io/ur6xo9m70i/whatsapp_GcZlNUyVJI.png" width="40">
     </a>
 </h1>
+
+<h2>
+👨 18 Years
+</h2>
+
+<h2>
+📔 Computer Science Student
+</h2>
+
+<h2>
+💻 Love Technology
+</h2>
+
+<h2>
+🚀 Skills:
+
+- HTML
+- CSS
+- Javascript
+- Sass
+- Bootstrap
+- React JS
+- React Native
+- PHP
+- MySQL
+</h2>
