@@ -10,19 +10,12 @@
     </a>
 </h1>
 
-<h2>
 👨 18 Years
-</h2>
 
-<h2>
 📔 Computer Science Student
-</h2>
 
-<h2>
 💻 Love Technology
-</h2>
 
-<h2>
 🚀 Skills:
 
 - HTML
@@ -34,4 +27,3 @@
 - React Native
 - PHP
 - MySQL
-</h2>
