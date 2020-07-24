@@ -12,9 +12,9 @@
 
 👨 18 Years
 
-📔 Computer Science Student
+💻 Computer Science Student
 
-💻 Love Technology
+💗 Love Technology
 
 🚀 Skills:
 
