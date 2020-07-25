@@ -16,7 +16,7 @@
 
 💗 Love Technology
 
-🚀 Skills:
+🚀 Skills
 
 - HTML
 - CSS
