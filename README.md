@@ -1,35 +1,29 @@
-<h1 align="center">
-    <a href="https://www.linkedin.com/in/victor-hugo-guirra-2451b4157/">
-        <img src="https://image.flaticon.com/icons/svg/2111/2111499.svg" width="40">
-    </a>
-    <a href="https://www.instagram.com/_guirra/?hl=pt-br">
-        <img src="https://image.flaticon.com/icons/svg/1384/1384063.svg" width="40">
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=5561985622749&text=Opa%2C%20ol%C3%A1%20Victor!%20Tudo%20bem%3F">
-        <img src="https://ik.imagekit.io/ur6xo9m70i/whatsapp_GcZlNUyVJI.png" width="40">
-    </a>
-</h1>
+## Hello, I am Victor Guirra
 
-👨 19 Years
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorguirra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-💻 Computer Science Student
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguirra&layout=compact&langs_count=7&theme=dracula"/>
 
-💗 Love Technology
+</div>
 
-🚀 Skills
+<div style="display: inline_block"><br>
+  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
 
-- HTML
-- CSS
-- Javascript
-- Sass
-- Bootstrap
-- React JS
-- React Native
-- Node JS
-- PHP
+##
 
----
-
-<h3 align="center">
-    💻 By: Victor Guirra
-</h3>
+<div>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
